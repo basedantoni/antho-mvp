@@ -40,4 +40,4 @@ Generate and Migrate to Local SQLite Database
 
 Seed and View Database
 
-`pnpm db:seed && db:studio`
+`pnpm db:seed && pnpm db:studio`
